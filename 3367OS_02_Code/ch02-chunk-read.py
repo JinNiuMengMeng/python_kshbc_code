@@ -28,4 +28,3 @@ with open(filename, 'rb') as hugefile:
         print 'read bytes total:', len(readable)
         
         raw_input()
-# nothing
